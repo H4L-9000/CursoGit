@@ -1,6 +1,8 @@
 <html>
 
 <head>
+<title>Documento html GIT</title>
+<link href="css/estilo.css" rel="stylesheet" type="text/css">
 </head>
 <body>
          <h1>Esta es mi página index.html</h1>
